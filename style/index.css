@@ -1,0 +1,31 @@
+/* Custom Style */
+  body {
+    font-family: "Inter", sans-serif;
+    background: #0a0a0a;
+    color: #d1d5db;
+  }
+  h1,
+  h2,
+  h3,
+  p,
+  a {
+    color: #f1f5f9;
+  }
+  .card {
+    background: #1f2937;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.6);
+    border-radius: 8px;
+    padding: 1.5rem;
+  }
+  .card h3 {
+    color: #a5b4fc;
+  }
+  .highlight {
+    color: #3b82f6;
+  }
+  a {
+    color: #93c5fd;
+  }
+  a:hover {
+    color: #3b82f6;
+  }
